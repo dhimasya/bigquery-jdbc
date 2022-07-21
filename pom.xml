@@ -5,5 +5,5 @@
     <modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.dhimasya</groupId>
 	<artifactId>bigquery-jdbc</artifactId>
-	<version>1.0</version>
+	<version>1.3</version>
 </project>
